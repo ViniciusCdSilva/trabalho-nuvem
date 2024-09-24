@@ -27,8 +27,11 @@
     margin-left: 35%;
     margin-right: -60%;
     display: block;
-    height: 50px;
+    height: 40px;
     width: 90px;
+}
+.button:hover{
+    color: red;
 }
 h1{
     margin-left: 25%;
@@ -41,3 +44,12 @@ input{
  p{     margin-left: 40%;
         font-size: 15px;
     }
+.cadastro{
+   color: purple;
+   
+}
+.cadastro:hover{
+    color: red;
+    
+    
+}
